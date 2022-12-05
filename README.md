@@ -1,6 +1,6 @@
 # User:
-Voir les annonces disponibles
-Voir ses propres annonces
+ *Voir les annonces disponibles
+ *Voir ses propres annonces
  *Modifier ses annonces
  *Ajouter une annonce
  
